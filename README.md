@@ -1,4 +1,5 @@
-# horeseon-SEO
+##Challenge
+
 Refractor the Horeseon website code for better accessibility and SEO
 
 ### User Story
