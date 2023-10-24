@@ -1,5 +1,7 @@
 
-/* This file has been checked and amended for proper semantic structure, with properties being consolidated */ *
+/* This file has been checked and amended for proper semantic structure, with properties being consolidated and classes - sorted alphabetically */ 
+
+*
 {
 	box-sizing:border-box;
 	margin:0;
@@ -34,6 +36,25 @@ p
 	width:20%;
 }
 
+.benefit-cost h3,.benefit-brand h3,.benefit-lead h3
+{
+	margin-bottom:10px;
+	text-align:center;
+}
+
+.benefit-brand img,.benefit-cost img,.benefit-lead img
+{
+	display:block;
+	margin:10px auto;
+	max-width:150px;
+}
+
+.benefit-brand,.benefit-cost,.benefit-lead
+{
+	color:#fff;
+	margin-bottom:32px;
+}
+
 .content
 {
 	display:inline-block;
@@ -53,17 +74,17 @@ p
 	margin-left:25px;
 }
 
-.footer h2
-{
-	font-size:20px;
-}
-
 .footer
 {
 	clear:both;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	padding:30px;
 	text-align:center;
+}
+
+.footer h2
+{
+	font-size:20px;
 }
 
 .header div ul li
@@ -117,25 +138,6 @@ p
 {
 	font-size:36px;
 	margin-bottom:20px;
-}
-
-benefit-cost h3,.benefit-brand h3,.benefit-lead h3
-{
-	margin-bottom:10px;
-	text-align:center;
-}
-
-.benefit-brand img,.benefit-cost img,.benefit-lead img
-{
-	display:block;
-	margin:10px auto;
-	max-width:150px;
-}
-
-.benefit-brand,.benefit-cost,.benefit-lead
-{
-	color:#fff;
-	margin-bottom:32px;
 }
 
 .online-reputation-management h2,.social-media-marketing h2
