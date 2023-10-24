@@ -1,4 +1,4 @@
-# Horiseon Refractoring Project
+# Horiseon Refactoring Project
 
 Horiseon is a digital marketing agency specializing on SEO, online reputation management and Social Media Marketing. They have a website which they want to be more accessible and rank higher in search engines.
 
