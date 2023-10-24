@@ -27,9 +27,9 @@ The following elements have been completed:
 
 ## How to Use the Project
 
-Check the preview site on GitPages: https://oxanal3891.github.io/horiseon-refractor-accessibility/.
+Check the preview site on GitPages: https://oxanal3891.github.io/horiseon-refactor-accessibility/.
 
-Go to the following GitHub repository: https://github.com/Oxanal3891/horiseon-refractor-accessibility.
+Go to the following GitHub repository: https://github.com/Oxanal3891/horiseon-refactor-accessibility.
 
 Locate the updated files and commit messages.
 
