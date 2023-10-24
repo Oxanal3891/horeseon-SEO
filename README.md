@@ -1,20 +1,19 @@
-##Challenge
+# Horiseon Refractoring Project
 
-Refractor the Horeseon website code for better accessibility and SEO
+Horiseon is a digital marketing agency specializing on SEO, online reputation management and Social Media Marketing. They have a website which they want to be more accessible and rank higher in search engines.
 
-### User Story
+## Task
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+The task was to update the given codebase to follow the latest accessibility standards, so that the Horiseon website is optimized for search engines.
 
-### Acceptance Criteria
+## The technologies used
+* HTML
+* CSS
+* Git Bash
+* GitHub 
+* Google Chrome 
 
-This website must meet accessibility standards. 
-
-#### Work Completed
+## What's been done
 
 The following elements have been completed:
 
@@ -22,5 +21,32 @@ The following elements have been completed:
 * HTML elements were made to follow a logical structure independent of styling and positioning
 * Image and icon elements now contain accessible `alt` attributes
 * Heading attributes now fall in sequential order
-* Title elements now contain a concise, descriptive title
+* Title elements now contain a concise, descriptive title.
+* CSS has been commented upon
+* The site has been deployed on Git Hub pages.
 
+## How to Use the Project
+
+Check the preview site on GitPages: https://oxanal3891.github.io/horiseon-refractor-accessibility/.
+
+Go to the following GitHub repository: https://github.com/Oxanal3891/horiseon-refractor-accessibility.
+
+Locate the updated files and commit messages.
+
+Copy files if needed. Make sure file paths are correct.
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Credits
+
+EdX Team and Horiseon Digital Agency.
+
+## License
+
+EdX
